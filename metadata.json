@@ -1,0 +1,6 @@
+{
+  "name": "Prime Estate - Luxury Real Estate Platform",
+  "description": "Premium real estate platform for discovering luxury residential and commercial properties, new development projects, mortgage calculations, and agent consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
